@@ -252,7 +252,20 @@ defaults:
       layout: award
       author_profile: true
       share: true
-
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: research
+      author_profile: true
+      share: true
+  - scope:
+      path: ""
+      type: profession
+    values:
+      layout: profession
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
