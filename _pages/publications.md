@@ -5,16 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Preprints
+Preprints
+======
 
-- **X. Chen**, N. Li, "Leveraging Two-Stage Adaptive Robust Optimization for Power Flexibility Aggregation". [[Arxiv]](https://arxiv.org/pdf/2005.03768.pdf)
+- **X. Chen**, and N. Li, "Leveraging Two-Stage Adaptive Robust Optimization for Power Flexibility Aggregation," Arxiv Preprint.[[Arxiv]](https://arxiv.org/pdf/2005.03768.pdf)
 
-- **X. Chen**, Y. Nie, N. Li, "Online Residential Demand Response via Contextual Multi-Armed Bandits". [[Arxiv]](https://arxiv.org/pdf/2003.03627.pdf)
+- **X. Chen**, Y. Nie, and N. Li, "Online Residential Demand Response via Contextual Multi-Armed Bandits," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/2003.03627.pdf)
 
-- **X. Chen**, C. Zhao and N. Li, “Distributed Automatic Load-frequency Control with Optimality in Power
-Systems”. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
+- **X. Chen**, C. Zhao and N. Li, "Distributed Automatic Load-frequency Control with Optimality in Power
+Systems," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
 
-- **X. Chen**, and N. Li, “Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity”. [[Arxiv]](https://arxiv.org/pdf/1905.00298.pdf)
+- **X. Chen**, and N. Li, "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/1905.00298.pdf)
 
 ### Journal Papers
 
