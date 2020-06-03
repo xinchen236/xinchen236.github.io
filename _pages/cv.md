@@ -14,9 +14,6 @@ Find my detailed C.V. [here]().
 Education
 ======
 
-  Since Sept. 2017  | Ph.D. in Engineering Science at School of Engineering and Applied Science
-                    | Harvard University
-  ------------- | -------------
   Content Cell  | Content Cell
   Content Cell  | Content Cell
   
