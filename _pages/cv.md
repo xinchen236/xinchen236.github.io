@@ -13,6 +13,12 @@ Find my detailed C.V. [here]().
 
 Education
 ======
+
+  First Header  | Second Header
+  ------------- | -------------
+  Content Cell  | Content Cell
+  Content Cell  | Content Cell
+  
 Since Sept. 2017  | Ph.D. in Engineering Science at School of Engineering and Applied Science
                   | Harvard University
                   | Advisor: Prof. Na (Lina) Li
