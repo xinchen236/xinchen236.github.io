@@ -48,3 +48,11 @@ Regret Analysis”, Conference on Neural Information Processing Systems (NeurIPS
 [1] **X. Chen**, W. Wu, B. Zhang and X. Shi, “A Robust Approach for Active Distribution Network Restoration
 Based on Scenario Techniques Considering Load and DG Uncertainties,” IEEE Power and Energy Society
 General Meeting (PESGM), Boston, MA, USA, 2016. (**Best Conference Paper Award**) [[PDF]](https://www.researchgate.net/publication/307594999_A_Robust_Approach_for_Active_Distribution_Network_Restoration_Based_on_Scenario_Techniques_Considering_Load_and_DG_Uncertainties) 
+
+Chapter in Book
+======
+
+[1] **X. Chen** and W. Wu, “Network Reconfiguration and Restoration Control for Active Distribution Networks,”
+chapter in Active Distribution Networks Analysis, Operation and Control (in Chinese), Science Press, China,
+Sept. 2016.
+
