@@ -10,16 +10,16 @@ author_profile: true
 Teaching
 ====== 
 
-[x]  2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
+-  2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
 
-[x]  2018 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
+-  2018 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
 
 Presentations
 ====== 
-- [x] ""
++ "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity", in 2020 American Control Conference (ACC), Online, July, 2020.
 
-- [x] “Distributed Automatic Load-Frequency Control in Power Systems”, in 2nd IEEE Conference on Control
-Technology and Applications, Copenhagen, Demark, Aug. 2018.
++ “Distributed Automatic Load-Frequency Control in Power Systems”, in 2nd IEEE Conference on Control
+Technology and Applications (CCTA), Copenhagen, Demark, Aug. 2018.
 
-- [x] “Robust Restoration Approach for Active Distribution Network Based on Scenario Techniques”, in Best
++ “Robust Restoration Approach for Active Distribution Network Based on Scenario Techniques”, in Best
 Conference Paper session, 2016 IEEE PES General Meeting, Boston, U.S., July 2016.
