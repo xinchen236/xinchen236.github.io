@@ -14,4 +14,4 @@ My research interests lie in learning, optimization, and control of cyber-physic
 
 Updates
 ======
-[6/3/2020] This new personal website said Hello World.
+[6/3/2020] This new personal website said "HelloWorld".
