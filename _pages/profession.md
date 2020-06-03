@@ -10,9 +10,9 @@ author_profile: true
 Teaching
 ====== 
 
-- [x] 2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
+[x]  2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
 
-- [x] 2018 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
+[x]  2018 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
 
 Presentations
 ====== 
