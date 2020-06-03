@@ -26,7 +26,7 @@ Conference Paper session, 2016 IEEE PES General Meeting, Boston, U.S., July 2016
 
 Reviewer
 =======
-(For Jounarls): IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE
+(For Journals): IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE
 Transactions on Automatic Control, IET Generation, Transmission & Distribution, CSEE Journal of Power
 and Energy Systems, Systems & Control Letters.
 
