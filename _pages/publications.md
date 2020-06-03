@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -17,7 +17,8 @@ Systems," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
 
 - **X. Chen**, and N. Li, "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/1905.00298.pdf)
 
-### Journal Papers
+Journal Papers
+======
 
 [5] **X. Chen**, E. Dall’Anese, C. Zhao and N. Li, "Aggregate Power Flexibility in Unbalanced Distribution Systems," IEEE Transactions on Smart Grid, vol. 11, no. 1, pp. 258-269, Jan. 2020. [[PDF]](https://arxiv.org/pdf/1812.05990.pdf)
 
@@ -36,7 +37,8 @@ Distribution Networks,” IEEE Transactions on Power Systems, vol. 32, no. 5, pp
 IEEE Transactions on Power Systems, vol. 31, no. 5, pp. 4005-4015, Sept. 2016. [[PDF]](https://www.researchgate.net/publication/284431082_Robust_Restoration_Method_for_Active_Distribution_Networks)
 
 
-### Conference Papers
+Conference Papers
+======
 
 [3] Y. Li, **X. Chen**, Na Li, “Online Optimal Control with Linear Dynamics and Predictions: Algorithms and
 Regret Analysis”, Conference on Neural Information Processing Systems (NeurIPS), 2019.
