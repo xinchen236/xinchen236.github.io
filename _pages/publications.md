@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Publications"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
@@ -41,7 +41,7 @@ Conference Papers
 ======
 
 [3] Y. Li, **X. Chen**, Na Li, “Online Optimal Control with Linear Dynamics and Predictions: Algorithms and
-Regret Analysis”, Conference on Neural Information Processing Systems (NeurIPS), 2019.
+Regret Analysis”, Conference on Neural Information Processing Systems (NeurIPS), 2019. [[PDF]](https://www.researchgate.net/publication/334082061_Online_Optimal_Control_with_Linear_Dynamics_and_Predictions_Algorithms_and_Regret_Analysis)
 
 [2] **X. Chen**, C. Zhao and N. Li, “Distributed Automatic Load-frequency Control with Optimality in Power Systems,” 2018 IEEE Conference on Control Technology and Applications (CCTA), Copenhagen, pp. 24-31, 2018. (**One of Two Best Student Paper Award Finalists**) [[PDF]](https://www.researchgate.net/publication/327920284_Distributed_Automatic_Load-Frequency_Control_with_Optimality_in_Power_Systems)
 
