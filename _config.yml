@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xin Chen"
   avatar           : "profile.jpg"
-  bio              : "PhD Candidate in Electrical Engineering, Harvard University"
+  bio              : "Ph.D. Candidate in Electrical Engineering, Harvard University"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  c.v.             : "cv.pdf"
 
 
 # Reading Files
