@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Teaching
-====== 
-
--  2018 Fall and 2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy. (**Award of Distinction in Teaching**)
-
 Presentations
 ====== 
 + "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity", in 2020 American Control Conference (ACC), Online, July, 2020.
@@ -29,4 +24,8 @@ Transactions on Automatic Control, IET Generation, Transmission & Distribution, 
 and Energy Systems, Systems & Control Letters.
 
 (For Conferences): IEEE Conference on Decision and Control, IEEE Conference on Control Technology and Applications, IEEE International Conference on SmartGridComm, IEEE PES General Meeting, L4DC Conference, European Control Conference, American Control Conference.
+
+Teaching
+====== 
+-  2018 Fall and 2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy. (**Award of Distinction in Teaching**)
 
