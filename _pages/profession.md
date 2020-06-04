@@ -19,8 +19,7 @@ Conference Paper session, 2016 IEEE PES General Meeting, Boston, U.S., July 2016
 
 Reviewer
 =======
-(For Journals): IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy, IEEE
-Transactions on Automatic Control, IET Generation, Transmission & Distribution, CSEE Journal of Power
+(For Journals): Automatica, IEEE Transactions on Automatic Control, IEEE Transactions on Smart Grid, IEEE Transactions on Power Systems, IEEE Transactions on Sustainable Energy,  IET Generation, Transmission & Distribution, CSEE Journal of Power
 and Energy Systems, Systems & Control Letters.
 
 (For Conferences): IEEE Conference on Decision and Control, IEEE Conference on Control Technology and Applications, IEEE International Conference on SmartGridComm, IEEE PES General Meeting, L4DC Conference, European Control Conference, American Control Conference.
