@@ -10,9 +10,7 @@ author_profile: true
 Teaching
 ====== 
 
--  2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
-
--  2018 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy.
+-  2018 Fall and 2019 Fall, Teaching Fellow, "ES 155: Systems and Control", Harvard Univeristy. (**Award of Distinction in Teaching**)
 
 Presentations
 ====== 
