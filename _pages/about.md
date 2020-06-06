@@ -18,6 +18,6 @@ Find my detailed C.V. [here](https://xinchen.netlify.app/files/cv.pdf).
 Updates
 ======
 
-[06/06/2020] Our paper "Online Residential Demand Response via Contextual Multi-Armed Bandits" was accepted for publication in The IEEE Control Systems Letters.
+[06/06/2020] Our paper "[Online Residential Demand Response via Contextual Multi-Armed Bandits](https://arxiv.org/pdf/2003.03627.pdf)" was accepted for publication in The IEEE Control Systems Letters.
 
 [06/03/2020] This new personal website said "HelloWorld".
