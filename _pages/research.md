@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-My research interests are in area of cyber-physical and energy systems, from the perspective of machine learning, optimization, and control. Here is a list of selective research projects that I have worked on. Click on the title link for more details!
+My research interests lie in learning, optimization, and control of cyber-physical systems, with emphasis applications to power and energy systems.
 
 {% for post in site.research %}
   {% include archive-single.html %}
