@@ -1,4 +1,3 @@
-
 ---
 title: "Learning in Cournot Games with Limited Information Feedback"
 excerpt: "In this work, we study the long-run dynamics of learning agents in Cournot game. Cournot game is the underlying market model for many demand response programs in electricity markets, where providers bid their available quantity, the service price is set by the total supply and each provider gets paid accordingly. "
