@@ -9,7 +9,7 @@ author_profile: true
 
 Presentations
 ====== 
-+ "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity", in 2020 American Control Conference (ACC), Online, July, 2020. [Slides](http://xinchen236.github.io/files/ACC2020slides.pdf)
++ "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity", in 2020 American Control Conference (ACC), Online, July, 2020. [[Slides]](https://drive.google.com/file/d/1IWZYBFx0MHEeItGnqun6RTD9xjWUluqS/view?usp=sharing)
 
 + “Distributed Automatic Load-Frequency Control in Power Systems”, in 2nd IEEE Conference on Control
 Technology and Applications (CCTA), Copenhagen, Demark, Aug. 2018.
