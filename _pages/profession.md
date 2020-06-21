@@ -12,10 +12,10 @@ Presentations
 + "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity", in 2020 American Control Conference (ACC), Online, July, 2020. [[Slides]](https://xinchen236.github.io/files/ACC2020slides.pdf)
 
 + “Distributed Automatic Load-Frequency Control in Power Systems”, in 2nd IEEE Conference on Control
-Technology and Applications (CCTA), Copenhagen, Demark, Aug. 2018.
+Technology and Applications (CCTA), Copenhagen, Demark, Aug. 2018. [[Slides]](https://xinchen236.github.io/files/ACC2020slides.pdf)
 
 + “Robust Restoration Approach for Active Distribution Network Based on Scenario Techniques”, in Best
-Conference Paper session, 2016 IEEE PES General Meeting, Boston, U.S., July 2016.
+Conference Paper session, 2016 IEEE PES General Meeting, Boston, U.S., July 2016. [[Slides]](https://xinchen236.github.io/files/GM2016slides.pdf)
 
 Reviewer
 =======
