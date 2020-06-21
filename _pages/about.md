@@ -13,7 +13,7 @@ I received my double B.S. degrees in engineering physics and economics from Tsin
 
 My research interests lie in learning, optimization, and control of cyber-physical systems, with emphasis applications to power and energy systems. In particular, I am broadly interested in robust optimization, distributed optimization and control, reinforcement learning, etc. 
 
-Find my detailed C.V. [here](https://xinchen.netlify.app/files/cv.pdf).
+Find my detailed C.V. [here](https://xinchen236.github.io/files/CVcx.pdf).
 
 Updates
 ======
