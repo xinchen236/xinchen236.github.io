@@ -18,6 +18,8 @@ Find my detailed C.V. [here](https://xinchen236.github.io/files/CVcx.pdf).
 Updates
 ======
 
+[07/01/2020] Our work "[Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity](https://xinchen236.github.io/files/ACC2020slides.pdf)" was presented in 2020 American Control Conference (ACC).
+
 [06/06/2020] Our paper "[Online Residential Demand Response via Contextual Multi-Armed Bandits](https://arxiv.org/pdf/2003.03627.pdf)" was accepted for publication in The IEEE Control Systems Letters.
 
 [06/03/2020] This new personal website said "HelloWorld".
