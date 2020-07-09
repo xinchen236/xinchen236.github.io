@@ -17,7 +17,7 @@ Systems," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
 Journal Papers
 ======
 
-[6] **X. Chen**, Y. Nie, and N. Li, "Online Residential Demand Response via Contextual Multi-Armed Bandits," accepted to IEEE Control Systems Letters. [[PDF]](https://arxiv.org/pdf/2003.03627.pdf)
+[6] **X. Chen**, Y. Nie, and N. Li, "Online Residential Demand Response via Contextual Multi-Armed Bandits," IEEE Control Systems Letters,  vol. 5, no. 2, pp. 433-438, April 2021. [[PDF]](https://arxiv.org/pdf/2003.03627.pdf)
 
 [5] **X. Chen**, E. Dall’Anese, C. Zhao and N. Li, "Aggregate Power Flexibility in Unbalanced Distribution Systems," IEEE Transactions on Smart Grid, vol. 11, no. 1, pp. 258-269, Jan. 2020. [[PDF]](https://arxiv.org/pdf/1812.05990.pdf)
 
