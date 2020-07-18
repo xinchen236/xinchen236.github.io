@@ -6,7 +6,7 @@ collection: research
 <p>&nbsp;</p>
 
 Useful toolbox packages
-====
+-------
 
 - Gaussian Process Toolbox: [GPML](http://www.gaussianprocess.org/gpml/code/matlab/doc/).
 
