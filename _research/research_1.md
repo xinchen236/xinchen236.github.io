@@ -8,7 +8,7 @@ collection: research
 Useful package links
 ====
 
-- Gaussian Process Toolbox: [GPML](http://www.gaussianprocess.org/gpml/code/matlab/doc/).
+- Gaussian Process Toolbox: [GPML](http://www.gaussianprocess.org/gpml/code/matlab/doc/) (IPOPT embedded).
 
 - Nonlinear Optimization Platform: [CasADi](https://web.casadi.org/docs/).
 
