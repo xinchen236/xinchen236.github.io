@@ -1,0 +1,4 @@
+1- How to add a new section page in the level of "Publications" and "Research"?
+
+Procedure: 1) Make sure that there is such a "scope" in the "_config.yml" file. For example, the "publications".
+2) Modify the file "_data/navigation.yml" to add a section page in the main page, where "url" is a link to the corresponding file in "_pages/".
