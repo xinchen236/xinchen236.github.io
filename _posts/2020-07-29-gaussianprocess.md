@@ -1,5 +1,5 @@
 ---
-title: 'Gaussian Process'
+title: 'Study Notes on Gaussian Process'
 date: 2020-07-29
 permalink: /posts/2020/07/gaussianprocess/
 tags:
@@ -8,10 +8,10 @@ tags:
   - nonparametric
 ---
 
-My learning notes on Gaussian Process and some related resources.
+My study notes on Gaussian Process and some useful resources.
 
-Gaussian Process
-======
+# Gaussian Process
+# ======
 
 You can have many headings
 ======
