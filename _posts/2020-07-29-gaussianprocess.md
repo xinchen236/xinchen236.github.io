@@ -21,3 +21,6 @@ I. Introduction
 ======
 
 Can I display a latex equation $$x^2 +1 = 3$$?  One more $$\frac{a^2+b}{f} = \mathcal{A}$$.
+\begin{align}
+a^2 -c =h
+\end{align}
