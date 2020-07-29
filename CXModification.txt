@@ -2,3 +2,5 @@
 
 Procedure: 1) Make sure that there is such a "scope" in the "_config.yml" file. For example, the "publications".
 2) Modify the file "_data/navigation.yml" to add a section page in the main page, where "url" is a link to the corresponding file in "_pages/".
+3) Add a file either ".md" or "html" in "_pages/" to present the main contents.
+4) It may also link to some sub files in the main page, such as "_research" folder, so remember to change the modulars in such folders.
