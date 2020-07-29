@@ -10,8 +10,6 @@ tags:
 
 My study notes on Gaussian Process and some useful resources.
 
-# Gaussian Process
-# ======
 
 You can have many headings
 ======
