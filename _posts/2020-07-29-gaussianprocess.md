@@ -1,5 +1,5 @@
 ---
-title: 'Study Notes on Gaussian Process'
+title: 'Notes on Gaussian Process'
 date: 2020-07-29
 permalink: /posts/2020/07/gaussianprocess/
 tags:
