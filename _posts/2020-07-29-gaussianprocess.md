@@ -20,4 +20,4 @@ Useful Resources
 I. Introduction
 ======
 
-
+Can I display a latex equation $$x^2 +1 = 3$$?
