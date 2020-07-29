@@ -17,3 +17,6 @@ main:
     
   - title: "Award"
     url: /award/
+    
+  - title: "Blog"
+    url: /year-archive/
