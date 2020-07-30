@@ -39,4 +39,5 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 
 $$ [\boldsymbol f_{\mathcal{D}}; f(x_*)] \sim \mathcal{N}  \Big( [ \boldsymbol m_{\mathcal{D}}; m(x_*) ], [ K_{\mathcal{D},\mathcal{D}}, \boldsymbol k_{ *,\mathcal{D}}; \boldsymbol k_{ *,\mathcal{D}}^\top, k(x_*,x_*) ] \Big)$$
 
-
+where  vector $$\boldsymbol k_{*, \mathcal{D}}:= [ k(x_*,x_1); \cdots; k(x_*, x_n)]$$, and matrix $$K_{\mathcal{D},\mathcal{D}}$$ is the covariance matrix, whose $$ij$$-component is $$ k(x_i,x_j)$$.
+Then conditioning on the given observations $$\mathcal{D}$$, it is known that the posterior distribution $$f(x_*)|(\boldsymbol f_{\mathcal{D}} =\boldsymbol y_{\mathcal{D}})$$ is also a Gaussian distribution $$\mathcal{N}(\mu_{*|\mathcal{D}}, \sigma^2_{*|\mathcal{D}} )$$ with  closed form
