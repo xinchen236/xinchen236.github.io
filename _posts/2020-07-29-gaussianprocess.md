@@ -37,28 +37,11 @@ f(x)\sim\mathcal{GP}(m(x),k(x,x'))
 
 It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the observations $$\mathcal{D}$$. According to the formal definition, the collection $$(f_{\mathcal{D}}, f(x_*))$$ follows a joint Gaussian distribution with 
 
-\begin{align}
- \begin{bmatrix}
-   f_{\mathcal{D}} \\\\ f(x_*)
-    \end{bmatrix} \sim \mathcal{N}    \begin{bmatrix} m_{\mathcal{D}} \\\\ m(x_*)   \end{bmatrix}, 
-\end{align}
-
 $$ \begin{bmatrix}
    f_{\mathcal{D}} \\ f(x_*)
-    \end{bmatrix} \sim \mathcal{N} $$      $$  \begin{bmatrix} m_{\mathcal{D}} \\ m(x_*)   \end{bmatrix}, $$
+    \end{bmatrix} \sim \Big( \mathcal{N} $$      $$  \begin{bmatrix} m_{\mathcal{D}} \\ m(x_*)   \end{bmatrix}, $$  $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} & \{k}_{*,\mathcal{D}}\\ {k}_{*,\mathcal{D}} & k(x_*,x_*)   \end{bmatrix} \Big )$$
 
-\begin{align}
- \begin{bmatrix}
-   f_{\mathcal{D}} \\\\ f(x_*)
-    \end{bmatrix} \sim \mathcal{N}   
-\end{align}
-
-\begin{align}
- \begin{bmatrix}
-          m_{\mathcal{D}} \\\\ m(x_*)
-         \end{bmatrix}, 
-\end{align}
-
+$$a^\top$$
 
 
 \begin{align}
