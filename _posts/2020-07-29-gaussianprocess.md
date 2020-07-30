@@ -46,4 +46,7 @@ $$a$$
 $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} \\  k_{*,\mathcal{D}}^\top  \end{bmatrix} \Big )$$
 
 
-
+$$\begin{bmatrix} 
+a & b \\
+c & d 
+\end{bmatrix}$$
