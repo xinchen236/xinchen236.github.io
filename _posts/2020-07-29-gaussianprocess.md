@@ -36,8 +36,10 @@ f(x)\sim\mathcal{GP}(m(x),k(x,x'))
 \end{align}
 
 It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the observations $$\mathcal{D}$$. According to the formal definition, the collection $$(\boldsymbol f_{\mathcal{D}}, f(x_*))$$ follows a joint Gaussian distribution with 
+
 \begin{align}
-  [\boldsymbol f_{\mathcal{D}}; f(x_*)] \sim \mathcal{N}\Big( [\boldsymbol m_{\mathcal{D}}; m(x_*)],   [ K_{\mathcal{D},\mathcal{D}}, \boldsymbol k_{ *,\mathcal{D}}; \boldsymbol k_{ *,\mathcal{D}}^\top, k(x_*,x_*) ] \Big)
+  [\boldsymbol f_{\mathcal{D}}; f(x_*)] \sim \mathcal{N} \Big( [ \boldsymbol m_{\mathcal{D}}; m(x_*) ],   [ K_{\mathcal{D},\mathcal{D}}, \boldsymbol k_{ *,\mathcal{D}}; \boldsymbol k_{ *,\mathcal{D}}^\top, k(x_*,x_*) ] \Big)
 \end{align}
+
 
 
