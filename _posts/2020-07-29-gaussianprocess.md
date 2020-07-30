@@ -42,11 +42,7 @@ $$ [\boldsymbol f_{\mathcal{D}}; f(x_*)] \sim \mathcal{N}  \Big( [ \boldsymbol m
 where  vector $$\boldsymbol k_{*, \mathcal{D}}:= [ k(x_*,x_1); \cdots; k(x_*, x_n)]$$, and matrix $$K_{\mathcal{D},\mathcal{D}}$$ is the covariance matrix, whose $$ij$$-component is $$ k(x_i,x_j)$$.
 Then conditioning on the given observations $$\mathcal{D}$$, it is known that the posterior distribution $$f(x_*)|(\boldsymbol f_{\mathcal{D}} =\boldsymbol y_{\mathcal{D}})$$ is also a Gaussian distribution $$\mathcal{N}(\mu_{*|\mathcal{D}}, \sigma^2_{*|\mathcal{D}} )$$ with the closed form
 
-\begin{subequations} \label{eq:GP}
-\begin{align}
-    \mu_{*|\mathcal{D}}& = m(x_*) +\label{eq:GP:mean}   \\\\\\\\
+\begin{align*}
+    \mu_{*|\mathcal{D}} & = m(x_*) +   \\
     \sigma^2_{*|\mathcal{D}} & = 
-\end{align}
-\end{subequations}
-
-$$   \mu_{*|\mathcal{D}}& = m(x_*) + \label{eq:GP:mean}   \\\\    \sigma^2_{*|\mathcal{D}} & =   $$
+\end{align*}
