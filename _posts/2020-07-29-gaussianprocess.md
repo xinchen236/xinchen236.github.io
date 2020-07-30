@@ -41,19 +41,9 @@ $$ \begin{bmatrix}
    f_{\mathcal{D}} \\ f(x_*)
     \end{bmatrix} \sim \Big( \mathcal{N} $$      $$  \begin{bmatrix} m_{\mathcal{D}} \\ m(x_*)   \end{bmatrix}, $$    $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} & k_{*,\mathcal{D}} \\  k_{*,\mathcal{D}}^\top & k(x_*,x_*)   \end{bmatrix} \Big )$$
 
-$$a^\top$$
+$$a$$
 
 $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} & k_{*,\mathcal{D}} \\  k_{*,\mathcal{D}}^\top & k(x_*,x_*)   \end{bmatrix} \Big )$$
 
-\begin{align}
- \begin{bmatrix}
-   f_{\mathcal{D}} \\\\ f(x_*)
-    \end{bmatrix} \sim \mathcal{N}  
-    \begin{pmatrix}
-      \begin{bmatrix}
-          m_\mathcal{D} \\\\ m(x_*)
-         \end{bmatrix}, 
-     \end{pmatrix} 
-\end{align}
 
 
