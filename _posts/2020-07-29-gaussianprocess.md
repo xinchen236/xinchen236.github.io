@@ -19,6 +19,9 @@ Useful Resources
 
 - A good GP textbook: [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW.pdf).
 
+[Notes on Gaussian Process](https://xinchen236.github.io/files/ACC2020slides.pdf)
+------
+
 I. Introduction
 ======
 
