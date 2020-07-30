@@ -4,3 +4,7 @@ Procedure: 1) Make sure that there is such a "scope" in the "_config.yml" file. 
 2) Modify the file "_data/navigation.yml" to add a section page in the main page, where "url" is a link to the corresponding file in "_pages/".
 3) Add a file either ".md" or "html" in "_pages/" to present the main contents.
 4) It may also link to some sub files in the main page, such as "_research" folder, so remember to change the modulars in such folders.
+
+2- How to start from a new line when using latex "algin"?
+
+A: use "\\\\\\\\" (8) instead of "\\" (2).
