@@ -33,5 +33,6 @@ Formally, a GP is defined as a collection of random variables, any Gaussian proc
 f(x)\sim\mathcal{GP}(m(x),k(x,x'))
 \end{align}
 
+It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the 
 
 
