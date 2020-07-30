@@ -1,4 +1,7 @@
+{% include mathjax.html %}
+
 ---
+mathjax: true
 title: 'Notes on Gaussian Process'
 date: 2020-07-29
 permalink: /posts/2020/07/gaussianprocess/
@@ -8,7 +11,6 @@ tags:
   - nonparametric
 ---
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 My study notes on Gaussian Process and some useful resources.
 
