@@ -26,5 +26,6 @@ Gaussian process (GP) is a non-parametric supervised  machine learning method, w
 
 - GP can work well with small datasets.
 
-- GP incorporates prior domain knowledge of the unknwon system by defining kernel covariance function or setting  hyperparameters.
+- In the nature of Bayesian learning, GP incorporates prior domain knowledge of the unknwon system by defining kernel covariance function or setting  hyperparameters.
 
+Formally, 
