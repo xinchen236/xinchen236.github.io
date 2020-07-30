@@ -1,4 +1,4 @@
-{% include mathjax.html %}
+
 
 ---
 title: 'Notes on Gaussian Process'
@@ -49,3 +49,4 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 \end{aligned}
 
 
+{% include mathjax.html %}
