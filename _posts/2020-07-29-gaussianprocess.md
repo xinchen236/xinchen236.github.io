@@ -39,8 +39,9 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 
 
 \begin{align}
-& =\nabla_\theta V^\pi(s) \\
-=& \nabla_\theta \Big(\sum_{a \in \mathcal{A}} \pi_\theta(a \vert s)Q^\pi(s, a) \Big) 
+& =\nabla_\theta V^\pi(s) \\\\
+=& \nabla_\theta \Big(\sum_{a \in \mathcal{A}} \pi_\theta(a \vert s)Q^\pi(s, a) \Big) \\\\\\\\
+= & a^2+2
 \end{align}
 
 
