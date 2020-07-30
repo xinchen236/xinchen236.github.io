@@ -35,6 +35,16 @@ Formally, a GP is defined as a collection of random variables, any Gaussian proc
 f(x)\sim\mathcal{GP}(m(x),k(x,x'))
 \end{align}
 
-It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the observations $$\mathcal{D}$$. 
+It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the observations $$\mathcal{D}$$. According to the formal definition, the collection $$(f_{\mathcal{D}}, f(x_*))$$ follows a joint Gaussian distribution with 
+
+\usepackage{bm}
+\begin{align}
+    \begin{bmatrix}
+   \bm{f}_\mathcal{D}\\ f(x_*)
+    \end{bmatrix} \sim \mathcal{N}  \begin{pmatrix}
+    \begin{bmatrix}
+    \bm{m}_\mathcal{D}\\ m(x_*)
+    \end{bmatrix}
+\end{align}
 
 
