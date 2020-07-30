@@ -40,14 +40,11 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 \begin{align}
  \begin{bmatrix}
    f_{\mathcal{D}} \\\\ f(x_*)
-    \end{bmatrix} \sim \mathcal{N}  \begin{pmatrix}
-    \begin{bmatrix}
-    m_\mathcal{D} \\\\ m(x_*)
-    \end{bmatrix}
-    , \begin{bmatrix}
-    K_{\mathcal{D},\mathcal{D}} & {k}_{*,\mathcal{D}}\\\\
-    {k}_{*,\mathcal{D}}^\top & k(x_*,x_*)
-    \end{bmatrix}
+    \end{bmatrix} \sim \mathcal{N}  
+    \begin{pmatrix}
+      \begin{bmatrix}
+          m_\mathcal{D} \\\\ m(x_*)
+         \end{bmatrix}, 
      \end{pmatrix} 
 \end{align}
 
