@@ -39,11 +39,11 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 
 $$ \begin{bmatrix}
    f_{\mathcal{D}} \\ f(x_*)
-    \end{bmatrix} \sim \Big( \mathcal{N} $$      $$  \begin{bmatrix} m_{\mathcal{D}} \\ m(x_*)   \end{bmatrix}, $$    $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} & k_{*,\mathcal{D}} \\  k_{*,\mathcal{D}}^\top & k(x_*,x_*)   \end{bmatrix} \Big )$$
+    \end{bmatrix} \sim \Big( \mathcal{N} $$    $$  \begin{bmatrix} m_{\mathcal{D}} \\ m(x_*)   \end{bmatrix}, $$    $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} & k_{ *,\mathcal{D}} \\  k_{ *,\mathcal{D}}^\top & k(x_*,x_*)   \end{bmatrix} \Big ) $$
 
 $$a$$
 
-$$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} & k_{*,\mathcal{D}} \\  k_{*,\mathcal{D}}^\top & k(x_*,x_*)   \end{bmatrix} \Big )$$
+$$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} \\  k_{*,\mathcal{D}}^\top  \end{bmatrix} \Big )$$
 
 
 
