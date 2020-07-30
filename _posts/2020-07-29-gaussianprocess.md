@@ -47,6 +47,6 @@ $$\begin{bmatrix}   K_{\mathcal{D},\mathcal{D}} \\  k_{*,\mathcal{D}}^\top  \end
 
 
 $$\begin{bmatrix} 
-a & b \\
-c & d 
+a && b \\
+c && d 
 \end{bmatrix}$$
