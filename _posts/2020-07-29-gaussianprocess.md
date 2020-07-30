@@ -20,7 +20,4 @@ Useful Resources
 I. Introduction
 ======
 
-Can I display a latex equation $$x^2 +1 = 3$$?  One more $$\frac{a^2+b}{f} = \mathcal{A}$$.
-\begin{align}
-a^2 -c =h
-\end{align}
+Gaussian process (GP) is a non-parametric supervised  machine learning method, which has been widely used to model nonlinear system dynamics as well.  
