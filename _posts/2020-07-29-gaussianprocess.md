@@ -7,7 +7,7 @@ tags:
   - Bayesian
   - nonparametric
 ---
-
+mathjax: true
 
 My study notes on Gaussian Process and some useful resources.
 
