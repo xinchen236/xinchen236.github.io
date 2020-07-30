@@ -41,5 +41,12 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
   [\boldsymbol f_{\mathcal{D}}; f(x_*)] \sim \mathcal{N} \Big( [ \boldsymbol m_{\mathcal{D}}; m(x_*) ],   [ K_{\mathcal{D},\mathcal{D}}, \boldsymbol k_{ *,\mathcal{D}}; \boldsymbol k_{ *,\mathcal{D}}^\top, k(x_*,x_*) ] \Big)
 \end{align}
 
+\begin{align}
+  [\boldsymbol f_{\mathcal{D}}; f(x_*)] \sim \mathcal{N} 
+\end{align}
 
+
+$$\Big( [ \boldsymbol m_{\mathcal{D}}; m(x_*) ],  $$
+
+$$ [ K_{\mathcal{D},\mathcal{D}}, \boldsymbol k_{ *,\mathcal{D}}; \boldsymbol k_{ *,\mathcal{D}}^\top, k(x_*,x_*) ] \Big) $$
 
