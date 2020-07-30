@@ -28,7 +28,10 @@ Gaussian process (GP) is a non-parametric supervised  machine learning method, w
 
 - In the nature of Bayesian learning, GP incorporates prior domain knowledge of the unknwon system by defining kernel covariance function or setting  hyperparameters.
 
-Formally, a GP is defined as a collection of random variables, any Gaussian process finite number of which have a joint Gaussian distribution. A GP is fully specified by a mean function $$m(x)$$ and a (kernel) covariance function $$k(x,x')$$, which is denoted as $$f(x)\sim\mathcal{GP}(m(x),k(x,x'))$$. 
+Formally, a GP is defined as a collection of random variables, any Gaussian process finite number of which have a joint Gaussian distribution. A GP is fully specified by a mean function $$m(x)$$ and a (kernel) covariance function $$k(x,x')$$, which is denoted as 
+\begin{align}
+f(x)\sim\mathcal{GP}(m(x),k(x,x'))
+\end{align}
 
 
 
