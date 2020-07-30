@@ -37,7 +37,7 @@ f(x)\sim\mathcal{GP}(m(x),k(x,x'))
 
 It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the observations $$\mathcal{D}$$. According to the formal definition, the collection $$(f_{\mathcal{D}}, f(x_*))$$ follows a joint Gaussian distribution with 
 
-% <![CDATA[
+
 \begin{aligned}
 & \nabla_\theta V^\pi(s) \\
 =& \nabla_\theta \Big(\sum_{a \in \mathcal{A}} \pi_\theta(a \vert s)Q^\pi(s, a) \Big) & \\
@@ -45,6 +45,6 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 =& \sum_{a \in \mathcal{A}} \Big( \nabla_\theta \pi_\theta(a \vert s)Q^\pi(s, a) + \pi_\theta(a \vert s) \color{red}{\nabla_\theta \sum_{s', r} P(s',r \vert s,a)(r + V^\pi(s'))} \Big) & \scriptstyle{\text{; Extend } Q^\pi \text{ with future state value.}} \\
 =& \sum_{a \in \mathcal{A}} \Big( \nabla_\theta \pi_\theta(a \vert s)Q^\pi(s, a) + \pi_\theta(a \vert s) \color{red}{\sum_{s', r} P(s',r \vert s,a) \nabla_\theta V^\pi(s')} \Big) & \scriptstyle{P(s',r \vert s,a) \text{ or } r \text{ is not a func of }\theta}\\
 =& \sum_{a \in \mathcal{A}} \Big( \nabla_\theta \pi_\theta(a \vert s)Q^\pi(s, a) + \pi_\theta(a \vert s) \color{red}{\sum_{s'} P(s' \vert s,a) \nabla_\theta V^\pi(s')} \Big) & \scriptstyle{\text{; Because }  P(s' \vert s, a) = \sum_r P(s', r \vert s, a)}
-\end{aligned} %]]>
+\end{aligned}
 
 
