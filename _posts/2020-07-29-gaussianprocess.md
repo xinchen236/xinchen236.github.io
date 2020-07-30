@@ -46,3 +46,6 @@ Then conditioning on the given observations $$\mathcal{D}$$, it is known that th
     \mu_{*|\mathcal{D}} & = m(x_*) +   \\
     \sigma^2_{*|\mathcal{D}} & = 
 \end{align*}
+
+
+$$  \mu_{*|\mathcal{D}} & = m(x_*) +   \\\\   \sigma^2_{*|\mathcal{D}} & =  $$
