@@ -8,6 +8,8 @@ tags:
   - nonparametric
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 My study notes on Gaussian Process and some useful resources.
 
 Useful Resources
@@ -33,6 +35,6 @@ Formally, a GP is defined as a collection of random variables, any Gaussian proc
 f(x)\sim\mathcal{GP}(m(x),k(x,x'))
 \end{align}
 
-It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the 
+It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on the observations $$\mathcal{D}$$. 
 
 
