@@ -8,9 +8,7 @@ tags:
   - nonparametric
 ---
 
-# <script id="MathJax-script" async src="<url-to-your-site>/mathjax/tex-chtml.js"></script>
-
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+ <script id="MathJax-script" async src="<url-to-your-site>/mathjax/tex-chtml.js"></script>
 
 My study notes on Gaussian Process and some useful resources.
 
@@ -46,7 +44,9 @@ Then conditioning on the given observations $$\mathcal{D}$$, it is known that th
 
 \begin{subequations} \label{eq:GP}
 \begin{align}
-    \mu_{*|\mathcal{D}}& = m(x_*) +\label{eq:GP:mean}   \\\\
+    \mu_{*|\mathcal{D}}& = m(x_*) +\label{eq:GP:mean}   \\\\\\\\
     \sigma^2_{*|\mathcal{D}} & = 
 \end{align}
 \end{subequations}
+
+$$   \mu_{*|\mathcal{D}}& = m(x_*) + \label{eq:GP:mean}   \\\\    \sigma^2_{*|\mathcal{D}} & =   $$
