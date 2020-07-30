@@ -46,6 +46,19 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 \end{align}
 
 
+\begin{align}
+ \begin{bmatrix}
+   f_{\mathcal{D}} \\\\ f(x_*)
+    \end{bmatrix} \sim \mathcal{N}   
+\end{align}
+
+\begin{align}
+ \begin{bmatrix}
+          m_{\mathcal{D}} \\\\ m(x_*)
+         \end{bmatrix}, 
+\end{align}
+
+
 
 \begin{align}
  \begin{bmatrix}
