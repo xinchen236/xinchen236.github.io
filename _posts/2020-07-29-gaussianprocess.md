@@ -8,9 +8,9 @@ tags:
   - nonparametric
 ---
 
- <script id="MathJax-script" async src="<url-to-your-site>/mathjax/tex-chtml.js"></script>
-
 My study notes on Gaussian Process and some useful resources.
+
+<script id="MathJax-script" async src="<url-to-your-site>/mathjax/tex-chtml.js"></script>
 
 Useful Resources
 ------
