@@ -20,4 +20,4 @@ Useful Resources
 I. Introduction
 ======
 
-Gaussian process (GP) is a non-parametric supervised  machine learning method, which has been widely used to model nonlinear system dynamics as well.  
+Gaussian process (GP) is a non-parametric supervised  machine learning method, which has been widely used to model nonlinear system dynamics as well.  GP works to infer an unknown function $$y = f(\bm{x})$$ based on the training set $$\mathcal{D}:= \{(\bm{x}_i, y_i)|\, i=1,\cdots,n\}$$ with $$n$$ noisy observations. 
