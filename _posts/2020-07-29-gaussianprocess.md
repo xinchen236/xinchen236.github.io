@@ -1,5 +1,6 @@
 ---
 title: 'Notes on Gaussian Process'
+mathjax: true
 date: 2020-07-29
 permalink: /posts/2020/07/gaussianprocess/
 tags:
@@ -7,7 +8,8 @@ tags:
   - Bayesian
   - nonparametric
 ---
-mathjax: true
+
+{% include mathjax.html %}
 
 My study notes on Gaussian Process and some useful resources.
 
@@ -47,4 +49,4 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 \end{aligned}
 
 
-{% include mathjax.html %}
+
