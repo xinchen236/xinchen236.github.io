@@ -39,7 +39,7 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 
 \begin{align}
  \begin{bmatrix}
-   \bm{f}_\mathcal{D}\\\\\\\\ f(x_*)
+   f_{\mathcal{D}} \\\\\\\\ f(x_*)
     \end{bmatrix} \sim \mathcal{N} 
 \end{align}
 
