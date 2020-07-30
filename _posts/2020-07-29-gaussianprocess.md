@@ -44,4 +44,4 @@ It aims to infer the function value $$f(x_*)$$ on a new point $$x_{*}$$ based on
 \end{align}
 
 
-$$\begin{pmatrix}a & b\\\ c & d\end{pmatrix}$$
+$$\begin{pmatrix}a & b\\\\\\\\ c & d\end{pmatrix}$$
