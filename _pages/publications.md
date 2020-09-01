@@ -20,13 +20,9 @@ Journal Papers
 
 [5] **X. Chen**, E. Dall’Anese, C. Zhao and N. Li, "Aggregate Power Flexibility in Unbalanced Distribution Systems," IEEE Transactions on Smart Grid, vol. 11, no. 1, pp. 258-269, Jan. 2020. [[PDF]](https://arxiv.org/pdf/1812.05990.pdf)
 
-[4] **X. Chen**, W. Wu and B. Zhang, “Robust Capacity Assessment of Distributed Generation in Unbalanced
-Distribution Networks Incorporating ANM Techniques,” IEEE Transactions on Sustainable Energy, vol. 9,
-no. 2, pp. 651-663, April 2018. [[PDF]](https://www.researchgate.net/publication/319662672_Robust_Capacity_Assessment_of_Distributed_Generation_in_Unbalanced_Distribution_Networks_Incorporating_ANM_Techniques)
+[4] C. Lin, W. Wu, **X. Chen** and W. Zheng, “Decentralized Dynamic Economic Dispatch for Integrated Transmission and Active Distribution Networks Using Multi-parametric Programming,” IEEE Transactions on Smart Grid, vol. 9, no. 5, pp. 4983-4993, Sept. 2018.
 
-[3] C. Lin, W. Wu, **X. Chen** and W. Zheng, “Decentralized Dynamic Economic Dispatch for Integrated
-Transmission and Active Distribution Networks Using Multi-parametric Programming,” IEEE Transactions
-on Smart Grid, vol. 9, no. 5, pp. 4983-4993, Sept. 2018. 
+[3] **X. Chen**, W. Wu and B. Zhang, “Robust Capacity Assessment of Distributed Generation in Unbalanced Distribution Networks Incorporating ANM Techniques,” IEEE Transactions on Sustainable Energy, vol. 9, no. 2, pp. 651-663, April 2018. [[PDF]](https://www.researchgate.net/publication/319662672_Robust_Capacity_Assessment_of_Distributed_Generation_in_Unbalanced_Distribution_Networks_Incorporating_ANM_Techniques)
 
 [2] **X. Chen**, W. Wu, B. Zhang and C. Lin, “Data-driven DG Capacity Assessment Method for Active
 Distribution Networks,” IEEE Transactions on Power Systems, vol. 32, no. 5, pp. 3946-3957, Sept. 2017. [[PDF]](https://www.researchgate.net/publication/310771390_Data-Driven_DG_Capacity_Assessment_Method_for_Active_Distribution_Networks)
