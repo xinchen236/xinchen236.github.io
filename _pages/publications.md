@@ -10,12 +10,11 @@ Preprints
 
 - **X. Chen**, and N. Li, "Leveraging Two-Stage Adaptive Robust Optimization for Power Flexibility Aggregation," Arxiv Preprint.   [[Arxiv]](https://arxiv.org/pdf/2005.03768.pdf)
 
-- **X. Chen**, C. Zhao and N. Li, "Distributed Automatic Load-frequency Control with Optimality in Power
-Systems," Arxiv Preprint. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
-
 
 Journal Papers
 ======
+
+[7] **X. Chen**, C. Zhao and N. Li, "Distributed Automatic Load-frequency Control with Optimality in Power Systems," accepted to  IEEE Transactions on Control of Network Systems. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
 
 [6] **X. Chen**, Y. Nie, and N. Li, "Online Residential Demand Response via Contextual Multi-Armed Bandits," IEEE Control Systems Letters,  vol. 5, no. 2, pp. 433-438, April 2021. [[PDF]](https://arxiv.org/pdf/2003.03627.pdf)
 
@@ -39,7 +38,7 @@ IEEE Transactions on Power Systems, vol. 31, no. 5, pp. 4005-4015, Sept. 2016. [
 Conference Papers
 ======
 
-[4] **X. Chen**, and N. Li, "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity," accepted to 2020 American Control Conference (ACC). [[PDF]](https://arxiv.org/pdf/1905.00298.pdf)
+[4] **X. Chen**, and N. Li, "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity," 2020 American Control Conference (ACC), pp. 1612-1618， 2020. [[PDF]](https://arxiv.org/pdf/1905.00298.pdf)
 
 [3] Y. Li, **X. Chen**, N. Li, “Online Optimal Control with Linear Dynamics and Predictions: Algorithms and
 Regret Analysis”, Conference on Neural Information Processing Systems (NeurIPS), 2019. [[PDF]](https://www.researchgate.net/publication/334082061_Online_Optimal_Control_with_Linear_Dynamics_and_Predictions_Algorithms_and_Regret_Analysis)
