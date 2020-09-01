@@ -34,7 +34,7 @@ IEEE Transactions on Power Systems, vol. 31, no. 5, pp. 4005-4015, Sept. 2016. [
 Conference Papers
 ======
 
-[4] **X. Chen**, and N. Li, "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity," 2020 American Control Conference (ACC), pp. 1612-1618， 2020. [[PDF]](https://arxiv.org/pdf/1905.00298.pdf)
+[4] **X. Chen**, and N. Li, "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity," 2020 American Control Conference (ACC), pp. 1612-1618, 2020. [[PDF]](https://arxiv.org/pdf/1905.00298.pdf)
 
 [3] Y. Li, **X. Chen**, N. Li, “Online Optimal Control with Linear Dynamics and Predictions: Algorithms and
 Regret Analysis”, Conference on Neural Information Processing Systems (NeurIPS), 2019. [[PDF]](https://www.researchgate.net/publication/334082061_Online_Optimal_Control_with_Linear_Dynamics_and_Predictions_Algorithms_and_Regret_Analysis)
