@@ -18,7 +18,7 @@ Find my detailed C.V. [here](https://xinchen236.github.io/files/CVcx.pdf).
 Updates
 ======
 
-[07/15/2020] Our paper [Online Residential Demand Response via Contextual Multi-Armed Bandits](https://arxiv.org/pdf/2003.03627.pdf)" was accepted for publication in 2020 59th IEEE Conference on Decision and Control (CDC).
+[07/15/2020] Our paper "[Online Residential Demand Response via Contextual Multi-Armed Bandits](https://arxiv.org/pdf/2003.03627.pdf)" was accepted for publication in 2020 59th IEEE Conference on Decision and Control (CDC).
 
 [07/01/2020] Our work "[Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity](https://xinchen236.github.io/files/ACC2020slides.pdf)" was presented in 2020 American Control Conference (ACC).
 
