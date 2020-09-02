@@ -18,5 +18,5 @@ main:
   - title: "Award"
     url: /award/
     
-  - title: "Posts"
-    url: /post/
+#  - title: "Posts"
+#    url: /post/
