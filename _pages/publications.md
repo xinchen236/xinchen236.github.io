@@ -8,9 +8,9 @@ author_profile: true
 Preprints
 ======
 
-- **X. Chen**, and N. Li, "Leveraging Two-Stage Adaptive Robust Optimization for Power Flexibility Aggregation," Arxiv Preprint.   [[Arxiv]](https://arxiv.org/pdf/2005.03768.pdf)
+- **X. Chen**, and N. Li, "Leveraging Two-Stage Adaptive Robust Optimization for Power Flexibility Aggregation," [Arxiv Preprint](https://arxiv.org/pdf/2005.03768.pdf).
 
-- **X. Chen**, Y. Li, J. Shimada, and N. Li, "Online Learning and Distributed Control for Residential Demand Response", Arxiv Preprint. [[Arxiv]](https://arxiv.org/abs/2010.05153)
+- **X. Chen**, Y. Li, J. Shimada, and N. Li, "Online Learning and Distributed Control for Residential Demand Response", [Arxiv Preprint](https://arxiv.org/abs/2010.05153).
 
 Journal Papers
 ======
