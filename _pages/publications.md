@@ -15,7 +15,7 @@ Preprints
 Journal Papers
 ======
 
-[7] **X. Chen**, C. Zhao and N. Li, "Distributed Automatic Load-frequency Control with Optimality in Power Systems," accepted to  IEEE Transactions on Control of Network Systems. [[Arxiv]](https://arxiv.org/pdf/1811.00892.pdf)
+[7] **X. Chen**, C. Zhao and N. Li, "Distributed Automatic Load-frequency Control with Optimality in Power Systems," accepted to  IEEE Transactions on Control of Network Systems. [[PDF]](https://arxiv.org/pdf/1811.00892.pdf)
 
 [6] **X. Chen**, Y. Nie, and N. Li, "Online Residential Demand Response via Contextual Multi-Armed Bandits," IEEE Control Systems Letters,  vol. 5, no. 2, pp. 433-438, April 2021. [[PDF]](https://arxiv.org/pdf/2003.03627.pdf)
 
