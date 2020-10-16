@@ -18,7 +18,7 @@ Find my detailed C.V. [here](https://xinchen236.github.io/files/CVcx.pdf).
 Updates
 ======
 
-[10/11/2020] Check our new preprint "[Online Learning and  Distributed Control for Residential Demand Response](https://arxiv.org/abs/2010.05153)".
+[10/11/2020] Check out our new preprint on demand response "[Online Learning and  Distributed Control for Residential Demand Response](https://arxiv.org/abs/2010.05153)".
 
 [08/31/2020] Our paper "[Distributed Automatic Load Frequency Control with Optimality in Power Systems](https://arxiv.org/pdf/1811.00892.pdf)" was accepted for publication in IEEE Transactions on Control of Network Systems.
 
