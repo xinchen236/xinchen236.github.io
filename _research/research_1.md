@@ -1,6 +1,6 @@
 ---
 title: "Learning, User Selection and Control for Residential Demand Response"
-excerpt: "In this work, blabla "
+excerpt: "To be continued... "
 collection: research
 ---
 <p>&nbsp;</p>
