@@ -1,6 +1,6 @@
 ---
 title: "Robust Planning and Operation in Active Distribution Systems"
-excerpt: "In this work, blabla "
+excerpt: "To be continued..."
 collection: research
 ---
 <p>&nbsp;</p>
