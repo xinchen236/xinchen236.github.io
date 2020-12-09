@@ -9,7 +9,7 @@ author_profile: true
 
 [04/2019] Award of Distinction in Teaching, Harvard University. 
 
-[08/2018] [Best Student Paper Award Finalist](https://xinchen236.github.io/files/CCTAAwardjpg.jpg) (one of two), 2nd IEEE Conference on Control Technology and Applications (CCTA).
+[08/2018] Best Student Paper Award Finalist (one of two), 2nd IEEE Conference on Control Technology and Applications (CCTA).
 
 [06/2017] Excellent Master Graduate, Tsinghua Univeristy.
 
