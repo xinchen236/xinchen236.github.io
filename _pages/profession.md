@@ -9,6 +9,8 @@ author_profile: true
 
 Presentations
 ====== 
++ "Online Residential Demand Response via Contextual Multi-Armed Bandit", in 59th Conference on Decision and Control (CDC), Online, Dec., 2020. [[Slides]](https://xinchen236.github.io/files/CDC_2020.pdf)
+
 + "Exponential Stability of Primal-Dual Gradient Dynamics with Non-Strong Convexity", in 2020 American Control Conference (ACC), Online, July, 2020. [[Slides]](https://xinchen236.github.io/files/ACC2020slides.pdf)
 
 + “Distributed Automatic Load-Frequency Control in Power Systems”, in 2nd IEEE Conference on Control
