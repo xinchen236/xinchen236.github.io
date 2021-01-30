@@ -8,7 +8,7 @@ author_profile: true
 Preprints
 ======
 
-- **X. Chen**, G. Qu, Y. Tang, S. Low, N. Li, "Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision", 2021. 
+- **X. Chen**, G. Qu, Y. Tang, S. Low, N. Li, "[Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://www.researchgate.net/publication/348789134_Reinforcement_Learning_for_Decision-Making_and_Control_in_Power_Systems_Tutorial_Review_and_Vision)", 2021. 
 
 - **X. Chen**, Y. Li, J. Shimada, and N. Li, "[Online Learning and Distributed Control for Residential Demand Response](https://arxiv.org/abs/2010.05153)", 2020. 
 
