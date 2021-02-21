@@ -18,7 +18,7 @@ Find my detailed C.V. [here](https://xinchen236.github.io/files/CVcx.pdf).
 Updates
 ======
 
-[01/26/2021] Check our new preprint "[Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168)".
+[01/26/2021] Check our review paper on applying RL to power systems: "[Reinforcement Learning for Decision-Making and Control in Power Systems: Tutorial, Review, and Vision](https://arxiv.org/abs/2102.01168)".
 
 [10/11/2020] Check out our new preprint on demand response "[Online Learning and  Distributed Control for Residential Demand Response](https://arxiv.org/abs/2010.05153)".
 
